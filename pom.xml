@@ -1,0 +1,7 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.elnemer.islamic1000</groupId>
+  <artifactId>zakat-java-murabaha-schedule</artifactId>
+  <version>1.0.0</version>
+  <name>Shariah-Compliant Cost-Plus Murabaha Amortization Engine</name>
+</project>
